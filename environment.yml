@@ -1,0 +1,11 @@
+name: introduction_to_machine_learning_end_to_end
+channals:
+  - conda-forge
+dependencies:
+  - python=3.7.8
+  - numpy=1.19.1
+  - pandas=1.1.0
+  - matplotlib=3.3.0
+  - scikit-learn=0.23.1
+  - scipy=1.5.0
+  - joblib=0.16.0
